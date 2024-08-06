@@ -23,6 +23,17 @@ GIF/SVG/JPG/PNG these are different types of image file types that can be used g
 increasing pixal density increases the amount of time the image takes to load 
 figure is used with figurecaption and img to put a caption under the image 
 
+"<audio controls src="audio.mp3">" this allows you to add an audio with controls so the use can control it.
+html lacks the built in mechanism for changing the video quality based on the uses internet speed
+track is used for captions and subtitels 
+div block element span inline element
+
+html lang used when you wish to use a specific language on a website therefor helping with spelling error and grammatical errors.
+links to other documents are usually put in the head and the specific data is pointed out later in the document when it is needed.
+meta element has many purposes most common is for size changes based on the device the website is being pulled up on 
+
+forms usaully has four main syntax "<form><label><input><button>"
+forms should be styled in css to make everything look neater and more presentable
 
 Table are used for emails as there are no other options avaible to us at this point in time.
 each table row should contain either table data or table header depending on how many attrabutes are there determains the amoung or colums.
