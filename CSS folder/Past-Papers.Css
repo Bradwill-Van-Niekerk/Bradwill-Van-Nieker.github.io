@@ -1,0 +1,44 @@
+body {
+  margin: 10px;
+  background-color: rgb(248, 246, 243);
+}
+
+.past-papers {
+  border: 5cm;
+}
+
+h1,
+h3 {
+  text-align: center;
+  color: #9cf0e2;
+}
+
+h2 {
+  text-align: center;
+}
+
+.header {
+  border: 0cm;
+  background-color: black;
+  padding: 1rem;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+.row:after {
+  display: table;
+  clear: both;
+}
+.sign-in,
+.sign-up {
+  color: black;
+  border-color: aliceblue;
+  background-color: aliceblue;
+  border-radius: 4px;
+  padding: 0.25rem;
+  background-color: bisque;
+}
