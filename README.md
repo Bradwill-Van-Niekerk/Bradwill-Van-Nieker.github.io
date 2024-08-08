@@ -28,6 +28,8 @@ html lacks the built in mechanism for changing the video quality based on the us
 track is used for captions and subtitels 
 div block element span inline element
 
+To imput videos into html you need the code <iframe scr="https://www.youtube.com/embed/(last part of the YouTube url after the v= part)">
+
 html lang used when you wish to use a specific language on a website therefor helping with spelling error and grammatical errors.
 links to other documents are usually put in the head and the specific data is pointed out later in the document when it is needed.
 meta element has many purposes most common is for size changes based on the device the website is being pulled up on 
