@@ -9,7 +9,7 @@ body {
   padding-right: 50px;
   text-align: center;
 }
-.past-papers {
+.Languages {
   border: 5cm;
 }
 
@@ -28,13 +28,14 @@ h2 {
 .header {
   border: 5cm;
   background-color: black;
+  position: sticky;
   padding: 1rem;
   margin-right: 0px;
   margin-left: 0px;
 }
 
 
-.header{
+.bar{
   list-style: none;
   padding: 0;
   margin: 0;
