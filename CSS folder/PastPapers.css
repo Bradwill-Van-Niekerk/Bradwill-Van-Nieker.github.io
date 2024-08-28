@@ -49,7 +49,13 @@ body {
 /*body formatting*/
 .grid-container {
   display: grid;
-  grid-template-columns: auto auto ;}
+  grid-template-columns:  10% 45% 45% ;}
+h1{text-align: center;}
+
+.grid-item1 { grid-row:1/3;
+align-content: center;
+transform: rotate(270deg);
+}
 
 .footer {
   border: 0px solid black;
